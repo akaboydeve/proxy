@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
 https://multiproxy.org/txt_all/proxy.txt
 https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4
+https://rcloak.com/api/proxies/raw?protocol=socks4
+https://rcloak.com/api/proxies/raw?protocol=socks5
 # https://www.freeproxychecker.com/result/socks4_proxies.txt
 # https://www.freeproxychecker.com/result/socks5_proxies.txt
 # https://api.openproxylist.xyz/socks5.txt
